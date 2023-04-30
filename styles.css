@@ -1,5 +1,4 @@
-*{ 
-    background-color: rgb(207, 190, 168);
+*{
     padding: 0px;
     margin: 0px;
 }
@@ -34,7 +33,6 @@ li a:hover {
 
 i{
     margin: 10px;
-    background-color: #9c0583;
 }
 
 img{
@@ -46,7 +44,10 @@ img{
     float: left;
   width: 33.65%;
   padding: 60px;
-  background-color: #437007;
+  margin-left: auto;
+}
+.row {
+    background-color: #111;
 }
 .row::after {
     content: "";
